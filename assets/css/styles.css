@@ -59,8 +59,9 @@ input,textarea,select,button{
     transition: all .5s;
 }
 .btn:hover{
-    background:orange;
-    border-color: orange;   
+    color:#fff;
+    background:#FF997E;
+    border-color: #FF997E;   
     cursor: pointer;
 }
 .btn--primary{

@@ -99,6 +99,7 @@ padding: 26px 0;
     color: #222774;
     font-size: 1.6rem;
     font-weight: 700;
+    cursor: pointer;
 }
 .navbar__list{
     display: flex;
